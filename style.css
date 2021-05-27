@@ -1,0 +1,36 @@
+body{
+ text-align: center;
+ padding-top: 800px;
+ margin: 0px;
+}
+#img1{
+  margin-top:200px;
+  width: 175px;
+  margin-bottom: 50px;
+  border-radius:50%;
+}
+#welcome{
+    position: absolute;
+    height: 800px;
+    top:0px;
+    bottom:0px;
+    right:0px;
+    left:0px;
+    background: linear-gradient(#48bdb1 0%, #6bd16c 100%);
+}
+
+#info{
+ padding: 60px;
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: auto;
+}
+h2{
+  font-size:30px;
+}
+#h123{
+    font-size:30px;
+}
